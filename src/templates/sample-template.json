@@ -1,0 +1,18 @@
+
+{
+  "classic": {
+    "name": "Classic Sample",
+    "accentColor": "#1d4ed8",
+    "watermark": "SAMPLE - NOT VALID"
+  },
+  "modern": {
+    "name": "Modern Sample",
+    "accentColor": "#047857",
+    "watermark": "SAMPLE - NOT VALID"
+  },
+  "minimal": {
+    "name": "Minimal Sample",
+    "accentColor": "#6d28d9",
+    "watermark": "SAMPLE - NOT VALID"
+  }
+}
